@@ -28,4 +28,8 @@ public class Triangolo {
 		this.base = base;
 		this.altezza = altezza;
 	}
+	
+	public String areaTriangolo() {
+		return "area";
+	}
 }
